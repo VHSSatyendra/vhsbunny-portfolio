@@ -3,8 +3,8 @@ export const Database = [
         imgSource: require('../assets/Dev_Images/portfolio.png'),
         name: 'VHS Satyendra Portfolio',
         description: 'A Fully Responsive Personal Portfolio Website. A Portfolio Website with projects and amazing stuff.',
-        gitLink: 'https://github.com/VHSSatyendra/design-agency-01',
-        liveLink: 'https://design-agency-01.web.app/',
+        gitLink: 'https://github.com/VHSSatyendra/vhsbunny-portfolio',
+        liveLink: 'https://vhsbunny.web.app/',
     },
     {
         imgSource: require('../assets/Dev_Images/designAgency-01.png'),
